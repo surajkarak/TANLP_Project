@@ -1,4 +1,4 @@
-# Project Title
+# Detecting Political Bias in ChatGPT Responses using NLP and Text Analysis
 
 ## Overview
 
